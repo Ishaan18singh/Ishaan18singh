@@ -1,9 +1,19 @@
-# 👋 Hi, I'm Ishaan Singh
-
-## 💡 About Me
-🎓 I'm a Computer Science student passionate about combining **Frontend Development**, **Machine Learning**, and **SAP Functional** knowledge to build real-world solutions.  
-🌱 Currently learning and building projects with **React**, **JavaScript**, **SAP MM**, and **Python**.  
-🚀 Always curious and looking for new challenges to solve with code.
+<table>
+  <tr>
+    <td width="250">
+      <img src="https://github.com/Ishaan18singh/Ishaan18singh/blob/main/rabbit_typing.gif" width="100%" alt="Rabbit Typing Bunny"/>
+    </td>
+    <td>
+      <h2>Hi, I'm Ishaan Singh 👋</h2>
+      <p>
+        🚀 Passionate about <strong>Frontend Development</strong>, <strong>Machine Learning</strong>, and <strong>SAP</strong>. <br>
+        🎓 Computer Science student constantly building and learning. <br>
+        🧠 Currently diving into React, JS, Python, and SAP MM modules. <br>
+        ✨ Always looking to create, improve, and grow in the tech space.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,4 +47,3 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=Ishaan18singh&label=Profile+Views&color=0e75b6&style=flat)
-
