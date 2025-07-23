@@ -42,9 +42,9 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-singh-46632729a)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhishaan2004@icloud.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishaan__singh076?igsh=NXlzZjFmN2F6ZDZt&utm_source=qr)
+[![LinkedIn](https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-singh-46632729a)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhishaan2004@icloud.com)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishaan__singh076?igsh=NXlzZjFmN2F6ZDZt&utm_source=qr)
 
 
 ![](https://komarev.com/ghpvc/?username=Ishaan18singh&label=Profile+Views&color=0e75b6&style=flat)
