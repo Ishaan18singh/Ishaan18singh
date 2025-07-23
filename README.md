@@ -43,15 +43,16 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/ishaan-singh-46632729a" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0d6efd&height=40&section=header&text=LinkedIn&fontColor=ffffff&fontSize=14&fontAlign=65&desc=Connect&descAlign=65&descSize=10&animation=twinkling" />
-  </a>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0d6efd&height=40&section=header&text=LinkedIn&fontColor=ffffff&fontSize=14&fontAlign=50&desc=Connect%20on%20LinkedIn&descAlign=50&descSize=10&animation=twinkling" />
+  </a><br>
   <a href="mailto:singhishaan2004@icloud.com" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=d14836&height=40&section=header&text=Email&fontColor=ffffff&fontSize=14&fontAlign=65&desc=Message%20Me&descAlign=65&descSize=10&animation=twinkling" />
-  </a>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=d14836&height=40&section=header&text=Email&fontColor=ffffff&fontSize=14&fontAlign=50&desc=Send%20an%20Email&descAlign=50&descSize=10&animation=twinkling" />
+  </a><br>
   <a href="https://instagram.com/ishaansingh_04" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=e4405f&height=40&section=header&text=Instagram&fontColor=ffffff&fontSize=14&fontAlign=65&desc=Follow%20Me&descAlign=65&descSize=10&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=e4405f&height=40&section=header&text=Instagram&fontColor=ffffff&fontSize=14&fontAlign=50&desc=Follow%20on%20Instagram&descAlign=50&descSize=10&animation=twinkling" />
   </a>
 </p>
+
 
 
 
