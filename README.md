@@ -41,18 +41,18 @@
 ---
 
 ## 📫 Connect With Me
-<!-- Animated Contact Buttons -->
 <p align="center">
-  <a href="https://linkedin.com/in/ishaan-singh-46632729a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white=animation=twinkling" />
-  </a>
-  <a href="mailto:singhishaan2004@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white=animation=twinkling" />
-  </a>
-  <a href="https://instagram.com/ishaansingh_04">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white-animation=twinkling" />
+  <a href="https://linkedin.com/in/ishaan-singh-46632729a" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0d6efd&height=40&section=header&text=LinkedIn&fontColor=ffffff&fontSize=14&fontAlign=50&animation=twinkling" />
+  </a><br>
+  <a href="mailto:singhishaan2004@icloud.com" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=d14836&height=40&section=header&text=Email&fontColor=ffffff&fontSize=14&fontAlign=50&animation=twinkling" />
+  </a><br>
+  <a href="https://instagram.com/ishaansingh_04" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=e4405f&height=40&section=header&text=Instagram&fontColor=ffffff&fontSize=14&fontAlign=50&animation=twinkling" />
   </a>
 </p>
+
 
 
 
