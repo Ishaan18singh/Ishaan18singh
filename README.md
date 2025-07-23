@@ -28,18 +28,16 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
-
+ <table>
+  <tr>
+     <td width="250">
+      <img src="https://github.com/Ishaan18singh/Ishaan18singh/blob/main/rabbit_typing.gif" width="100%" alt="Rabbit Typing Bunny"/>
+    </td>
+    <td>
 ## 📊 GitHub Stats
 ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <tr>
-  <table>
-  <tr>
-    <td width="250">
-      <img src="https://github.com/Ishaan18singh/Ishaan18singh/blob/main/rabbit_typing.gif" width="100%" alt="Rabbit Typing Bunny"/>
-    </td>
-    <td>
----
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ishaan18singh&theme=dark&hide_border=true)](https://git.io/streak-stats)
