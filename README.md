@@ -33,6 +33,8 @@
 ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <tr>
+  <table>
+  <tr>
     <td width="250">
       <img src="https://github.com/Ishaan18singh/Ishaan18singh/blob/main/rabbit_typing.gif" width="100%" alt="Rabbit Typing Bunny"/>
     </td>
