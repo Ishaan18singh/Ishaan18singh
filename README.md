@@ -43,29 +43,30 @@
 ## 📫 Connect With Me
 <!-- Animated Contact Buttons -->
 <p align="center">
-  <a href="https://linkedin.com/in/ishaan-singh-46632729a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" style="border-radius: 8px; margin: 6px;" />
+<a href="https://linkedin.com/in/ishaan-singh-46632729a">
+  <img src="linkedin.gif" class="twinkle-animation">
+</a>
+<style>
+.twinkle-animation {
+  animation: twinkle 1.2s infinite;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+</style>
+
+  <a href="mailto:singhishaan2004@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:singhishaan2004@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" style="border-radius: 8px; margin: 6px;" />
-  </a>
-  <a href="https://instagram.com/ishaansingh_04" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" style="border-radius: 8px; margin: 6px;" />
+  <a href="https://instagram.com/ishaansingh_04">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+>
 
-<!-- Animation Style -->
-<style>
-  a img:hover {
-    animation: pulse 1s infinite;
-  }
 
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-</style>
 
 
 
