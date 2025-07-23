@@ -41,18 +41,18 @@
 ---
 
 ## 📫 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/ishaan-singh-46632729a" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0d6efd&height=50&section=header&text=LinkedIn&fontColor=ffffff&fontSize=20&fontAlign=70&desc=Connect%20with%20me&descAlign=70&descSize=12&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0d6efd&height=40&section=header&text=LinkedIn&fontColor=ffffff&fontSize=14&fontAlign=65&desc=Connect&descAlign=65&descSize=10&animation=twinkling" />
   </a>
   <a href="mailto:singhishaan2004@icloud.com" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=d14836&height=50&section=header&text=Email&fontColor=ffffff&fontSize=20&fontAlign=70&desc=Send%20me%20a%20message&descAlign=70&descSize=12&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=d14836&height=40&section=header&text=Email&fontColor=ffffff&fontSize=14&fontAlign=65&desc=Message%20Me&descAlign=65&descSize=10&animation=twinkling" />
   </a>
   <a href="https://instagram.com/ishaansingh_04" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=e4405f&height=50&section=header&text=Instagram&fontColor=ffffff&fontSize=20&fontAlign=70&desc=Follow%20me%20on%20Insta&descAlign=70&descSize=12&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=e4405f&height=40&section=header&text=Instagram&fontColor=ffffff&fontSize=14&fontAlign=65&desc=Follow%20Me&descAlign=65&descSize=10&animation=twinkling" />
   </a>
 </p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=Ishaan18singh&label=Profile+Views&color=0e75b6&style=flat)
