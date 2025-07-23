@@ -44,13 +44,13 @@
 <!-- Animated Contact Buttons -->
 <p align="center">
   <a href="https://linkedin.com/in/ishaan-singh-46632729a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=twinkling" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white=animation=twinkling" />
   </a>
   <a href="mailto:singhishaan2004@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=twinkling" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white=animation=twinkling" />
   </a>
   <a href="https://instagram.com/ishaansingh_04">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=twinkling" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white-animation=twinkling" />
   </a>
 </p>
 
