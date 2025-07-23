@@ -42,7 +42,7 @@
 
 ## 📫 Connect With Me
 
-<p align="right">
+<p align="center">
   <a href="https://linkedin.com/in/ishaan-singh-46632729a" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0d6efd&height=50&section=header&text=LinkedIn&fontColor=ffffff&fontSize=20&fontAlign=70&desc=Connect%20with%20me&descAlign=70&descSize=12&animation=twinkling" />
   </a>
