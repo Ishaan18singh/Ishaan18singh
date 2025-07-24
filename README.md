@@ -1,14 +1,19 @@
+<!-- Typing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B+I'm+Ishaan+Singh;Frontend+Developer+%7C+ML+Enthusiast+%7C+SAP+Learner;&center=true&size=25">
+</h1>
+
+<!-- Rabbit GIF and Intro -->
 <table>
   <tr>
     <td width="250">
       <img src="https://github.com/Ishaan18singh/Ishaan18singh/blob/main/rabbit_typing.gif" width="100%" alt="Rabbit Typing Bunny"/>
     </td>
     <td>
-      <h2>Hi, I'm Ishaan Singh 👋</h2>
       <p>
-        🚀 Passionate about <strong>Frontend Development</strong>, <strong>Machine Learning</strong>, and <strong>SAP</strong>. <br>
-        🎓 Computer Science student constantly building and learning. <br>
-        🧠 Currently diving into React, JS, Python, and SAP MM modules. <br>
+        🚀 Passionate about <strong>Frontend Development</strong>, <strong>Machine Learning</strong>, and <strong>SAP</strong>.<br>
+        🎓 Computer Science student constantly building and learning.<br>
+        🧠 Currently diving into React, JS, Python, and SAP MM modules.<br>
         ✨ Always looking to create, improve, and grow in the tech space.
       </p>
     </td>
@@ -17,7 +22,8 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Tech Stack
+
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
@@ -30,37 +36,26 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dracula&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=tokyonight&langs_count=8)
-
-
-
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishaan18singh&theme=dark&hide_border=true)](https://git.io/streak-stats) -- <img src="ninja_rabbit.gif" width="150" alt="Ninja Rabbit Animation"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160px"/>
+</div>
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishaan18singh&theme=react-dark)
 
+## 🔥 GitHub Streak
 
-## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/ishaan-singh-46632729a" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0d6efd&height=25&section=header&text=LinkedIn&fontColor=ffffff&fontSize=10&fontAlign=50&animation=twinkling" />
-  </a><br>
-  <a href="mailto:singhishaan2004@icloud.com" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=d14836&height=25&section=header&text=Email&fontColor=ffffff&fontSize=10&fontAlign=50&animation=twinkling" />
-  </a><br>
-  <a href="https://instagram.com/ishaansingh_04" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=e4405f&height=25&section=header&text=Instagram&fontColor=ffffff&fontSize=10&fontAlign=50&animation=twinkling" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Ishaan18singh&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+## 📈 GitHub Contribution Graph
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishaan18singh&theme=react-dark&area=true)
 
+---
 
-
-
-
-![](https://komarev.com/ghpvc/?username=Ishaan18singh&label=Profile+Views&color=0e75b6&style=flat)
+## 🐍 Contribution Sn
