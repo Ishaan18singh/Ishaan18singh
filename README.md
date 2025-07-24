@@ -34,20 +34,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
-
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160px"/>
-</div>
-
----
-
-## 📈 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishaan18singh&theme=react-dark&area=true)
-
----
-## 🐍 Contribution Snake
-
-<img src="https://github.com/Ishaan18singh/Ishaan18singh/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=tokyonight)
