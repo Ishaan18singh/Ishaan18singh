@@ -43,21 +43,16 @@
 </div>
 
 ---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishaan18singh&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📈 GitHub Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishaan18singh&theme=react-dark&area=true)
 
 ---
+## 🐍 Contribution Snake
 
-## 🐍 Contribution Sn
-![Snake animation](https://github.com/Ishaan18singh/Ishaan18singh/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/Ishaan18singh/Ishaan18singh/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
