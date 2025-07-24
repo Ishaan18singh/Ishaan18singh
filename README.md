@@ -50,6 +50,4 @@
 ---
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Ishaan18singh/Ishaan18singh/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<img src="https://github.com/Ishaan18singh/Ishaan18singh/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
