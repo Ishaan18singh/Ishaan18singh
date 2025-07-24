@@ -30,15 +30,18 @@
 ---
 
 ## 📊 GitHub Stats
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=dracula)](https://github.com/Ishaan18singh/Ishaan18singh.git-readme-stats)
-<tr>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan18singh&show_icons=true&theme=dracula&cache_seconds=3600)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan18singh&layout=compact&theme=tokyonight&langs_count=8)
+
 
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishaan18singh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ishaan18singh&theme=dark&hide_border=true)](https://git.io/streak-stats) -- <img src="ninja_rabbit.gif" width="150" alt="Ninja Rabbit Animation"/>
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishaan18singh&theme=react-dark)
+
 
 ## 📫 Connect With Me
 <p align="center">
