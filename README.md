@@ -61,5 +61,4 @@
 ---
 ## 🐍 Contribution Snake
 
-<!-- Use this only if you have the output branch configured correctly -->
-<img src="https://github.com/Ishaan18singh/Ishaan18singh/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
