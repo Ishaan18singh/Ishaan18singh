@@ -41,7 +41,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishaan18singh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ishaan18singh&theme=dark&hide_border=true)](https://github.com/Ishaan18singh)
 
 ---
 <p align="center">
