@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"  # Every hour
   workflow_dispatch:
 
 jobs:
@@ -10,15 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ✅ Install jq and Docker (safely)
-      - name: Install Docker and jq
+      # ✅ Only install jq, Docker is pre-installed on GitHub-hosted runners
+      - name: Install jq
         run: |
           sudo apt-get update
           sudo apt-get install -y jq
-          curl -fsSL https://get.docker.com -o get-docker.sh
-          sh get-docker.sh
 
-      # ✅ Generate metrics using PAT
+      # ✅ Run metrics using your Personal Access Token (GH_PAT)
       - name: Generate GitHub metrics SVG
         uses: lowlighter/metrics@latest
         with:
