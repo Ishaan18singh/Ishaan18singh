@@ -2,26 +2,34 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour
-  workflow_dispatch:      # allow manual run
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch:     # Allows manual triggering from Actions tab
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Required fields
-          user: Ishaan18singh
-          token: ${{ secrets.GITHUB_TOKEN }}   # ✅ This is the fix
-          
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
 
-          # Optional plugins
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+    steps:
+      - name: Generate GitHub metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          # Your personal access token stored in GitHub Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output filename (auto-pushed to repo)
+          filename: github-metrics.svg
+
+          # Enable core sections
+          base: header, activity
+
+          # Enable language analysis
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
+
+          # (Optional) Show recently used languages only
+          plugin_languages_sections: most-used
+
+          # (Optional) Limit number of languages
+          plugin_languages_limit: 6
+
+          # (Optional) Exclude forked repos
+          plugin_languages_indepth: yes
