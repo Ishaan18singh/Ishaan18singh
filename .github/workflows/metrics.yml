@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Every hour
+    - cron: "0 * * * *"  # Run hourly
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ✅ Only install jq, Docker is pre-installed on GitHub-hosted runners
-      - name: Install jq
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-
-      # ✅ Run metrics using your Personal Access Token (GH_PAT)
-      - name: Generate GitHub metrics SVG
+      - name: Run GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_PAT }}
