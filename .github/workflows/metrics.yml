@@ -1,7 +1,9 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 * * * *"}]  # runs every hour
-  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"  # every hour
+  workflow_dispatch:      # allow manual run
 
 jobs:
   github-metrics:
@@ -9,9 +11,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: "header, activity, community, repositories, metadata"
+          # Required fields
+          user: Ishaan18singh
+          token: ${{ secrets.GITHUB_TOKEN }}   # ✅ This is the fix
+          
+          template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+
+          # Optional plugins
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
