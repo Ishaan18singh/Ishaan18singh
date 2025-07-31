@@ -1,34 +1,21 @@
-name: 📊 Metrics
+name: Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Run every hour
-  workflow_dispatch:      # Allow manual run from GitHub Actions tab
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate GitHub Metrics
+      - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}   # Use your PAT stored in secrets
-
-          # Output file name
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-
-          # Base sections to include
           base: header, activity
-
-          # Enable language plugin
           plugin_languages: yes
-
-          # Show most-used languages only
           plugin_languages_sections: most-used
-
-          # Limit to top 6 languages
           plugin_languages_limit: 6
-
-          # Analyze non-forked repos in depth
           plugin_languages_indepth: yes
