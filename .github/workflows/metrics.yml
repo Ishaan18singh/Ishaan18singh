@@ -1,8 +1,6 @@
 name: Metrics
-
 on:
-  schedule: [{cron: "0 * * * *"}]  # every hour
-  push: {branches: ["main"]}
+  schedule: [{cron: "0 * * * *"}]  # runs every hour
   workflow_dispatch:
 
 jobs:
@@ -13,5 +11,7 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: "activity"
-          config_timezone: "Asia/Kolkata"
+          base: "header, activity, community, repositories, metadata"
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
