@@ -63,6 +63,5 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ishaan18singh&label=Profile%20views&color=0e75b6&style=flat" alt="Ishaan18singh" /> </p>
 
-![GitHub Heatmap](https://raw.githubusercontent.com/Ishaan18singh/metrics/main/github-metrics.svg)
 
 
