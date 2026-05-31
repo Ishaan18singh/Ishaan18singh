@@ -11,8 +11,6 @@ contents: write
 jobs:
 generate:
 runs-on: ubuntu-latest
-
-```
 steps:
   - name: Generate Pacman
     uses: abozanona/pacman-contribution-graph@main
@@ -25,4 +23,5 @@ steps:
       github_token: ${{ secrets.GITHUB_TOKEN }}
       publish_dir: dist
       publish_branch: output
-```
+
+      
