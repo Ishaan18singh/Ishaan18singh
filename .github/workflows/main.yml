@@ -1,30 +1,27 @@
-name: generate arcade contribution graphs
+name: Generate Pacman Contribution Graph
 
 on:
+workflow_dispatch:
 schedule:
 - cron: "0 */24 * * *"
-workflow_dispatch:
-push:
-branches:
-- main
 
-jobs:
-generate:
 permissions:
 contents: write
 
-```
+jobs:
+generate:
 runs-on: ubuntu-latest
 timeout-minutes: 20
 
+```
 steps:
-  - name: generate contribution graph SVGs
+  - name: Generate contribution graph SVGs
     uses: abozanona/pacman-contribution-graph@main
     with:
       github_user_name: Ishaan18singh
       games: "pacman,bomberman"
 
-  - name: push SVGs to output branch
+  - name: Push SVGs to output branch
     uses: crazy-max/ghaction-github-pages@v3.1.0
     with:
       target_branch: output
