@@ -1,15 +1,14 @@
-name: Generate Pacman Contribution Graph
+name: Test Pacman
 
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test
-        run: echo "Workflow works"
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Ishaan18singh
