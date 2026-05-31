@@ -1,0 +1,38 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; }
+      .border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .sec-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #6e7681; letter-spacing: 0.08em; }
+      .btn-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #c9d1d9; }
+    </style>
+  </defs>
+  <rect width="860" height="120" class="bg"/>
+
+  <text x="0" y="18" class="sec-label">CONNECT</text>
+  <line x1="70" y1="13" x2="860" y2="13" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- LinkedIn -->
+  <rect x="130" y="30" width="130" height="40" rx="8" class="card"/>
+  <rect x="130" y="30" width="130" height="40" rx="8" class="border"/>
+  <text x="195" y="55" text-anchor="middle" class="btn-text">🔗 LinkedIn</text>
+
+  <!-- Email -->
+  <rect x="280" y="30" width="110" height="40" rx="8" class="card"/>
+  <rect x="280" y="30" width="110" height="40" rx="8" class="border"/>
+  <text x="335" y="55" text-anchor="middle" class="btn-text">✉️ Email</text>
+
+  <!-- Instagram -->
+  <rect x="410" y="30" width="130" height="40" rx="8" class="card"/>
+  <rect x="410" y="30" width="130" height="40" rx="8" class="border"/>
+  <text x="475" y="55" text-anchor="middle" class="btn-text">📸 Instagram</text>
+
+  <!-- GitHub -->
+  <rect x="560" y="30" width="110" height="40" rx="8" class="card"/>
+  <rect x="560" y="30" width="110" height="40" rx="8" class="border"/>
+  <text x="615" y="55" text-anchor="middle" class="btn-text">🐙 GitHub</text>
+
+  <!-- Views -->
+  <text x="430" y="105" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12px" fill="#6e7681">👁 Profile views: 678</text>
+</svg>

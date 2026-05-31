@@ -1,0 +1,40 @@
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; }
+      .border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .sec-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #6e7681; letter-spacing: 0.08em; }
+      .stat-num { font-family: 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 600; }
+      .stat-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; fill: #8b949e; }
+      .stat-sub { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; fill: #6e7681; }
+    </style>
+  </defs>
+  <rect width="860" height="160" class="bg"/>
+
+  <!-- Section label -->
+  <text x="0" y="18" class="sec-label">GITHUB STATS</text>
+  <line x1="104" y1="13" x2="860" y2="13" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- 3 stat cards -->
+  <!-- Contributions -->
+  <rect x="0" y="26" width="275" height="124" rx="10" class="card"/>
+  <rect x="0" y="26" width="275" height="124" rx="10" class="border"/>
+  <text x="138" y="82" text-anchor="middle" class="stat-num" fill="#7c6fe0">129</text>
+  <text x="138" y="103" text-anchor="middle" class="stat-label">Total contributions</text>
+  <text x="138" y="120" text-anchor="middle" class="stat-sub">Feb 2024 – present</text>
+
+  <!-- Streak -->
+  <rect x="292" y="26" width="276" height="124" rx="10" class="card"/>
+  <rect x="292" y="26" width="276" height="124" rx="10" class="border"/>
+  <text x="430" y="82" text-anchor="middle" class="stat-num" fill="#D85A30">0</text>
+  <text x="430" y="103" text-anchor="middle" class="stat-label">Current streak</text>
+  <text x="430" y="120" text-anchor="middle" class="stat-sub">as of May 30</text>
+
+  <!-- Longest -->
+  <rect x="585" y="26" width="275" height="124" rx="10" class="card"/>
+  <rect x="585" y="26" width="275" height="124" rx="10" class="border"/>
+  <text x="722" y="82" text-anchor="middle" class="stat-num" fill="#1D9E75">10</text>
+  <text x="722" y="103" text-anchor="middle" class="stat-label">Longest streak</text>
+  <text x="722" y="120" text-anchor="middle" class="stat-sub">Jul 23 – Aug 1, 2025</text>
+</svg>

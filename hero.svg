@@ -1,0 +1,42 @@
+<svg width="860" height="280" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #161b22; }
+      .border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .name { font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: 600; fill: #e6edf3; }
+      .accent { fill: #7c6fe0; }
+      .tag-fs-bg { fill: #1e1a3a; }
+      .tag-fs-border { fill: none; stroke: #534AB7; stroke-width: 1; }
+      .tag-fs-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #9d97e8; }
+      .tag-ml-bg { fill: #0d2e22; }
+      .tag-ml-border { fill: none; stroke: #1D9E75; stroke-width: 1; }
+      .tag-ml-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #4ecba0; }
+      .sub { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #8b949e; }
+      .avatar-ring { fill: none; stroke: #534AB7; stroke-width: 2; }
+      .avatar-bg { fill: #21262d; }
+    </style>
+  </defs>
+  <rect width="860" height="280" rx="12" class="bg"/>
+  <rect width="858" height="278" x="1" y="1" rx="11" class="border"/>
+
+  <!-- Avatar circle -->
+  <circle cx="430" cy="72" r="38" class="avatar-bg"/>
+  <circle cx="430" cy="72" r="40" class="avatar-ring"/>
+  <text x="430" y="82" text-anchor="middle" font-size="32">👨‍💻</text>
+
+  <!-- Name -->
+  <text x="430" y="138" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="600" fill="#e6edf3">Hi 👋 I'm <tspan fill="#7c6fe0">Ishaan Singh</tspan></text>
+
+  <!-- Role tags -->
+  <rect x="215" y="152" width="168" height="26" rx="13" class="tag-fs-bg"/>
+  <rect x="215" y="152" width="168" height="26" rx="13" class="tag-fs-border"/>
+  <text x="299" y="169" text-anchor="middle" class="tag-fs-text">⚡ Full Stack Engineer</text>
+
+  <rect x="397" y="152" width="148" height="26" rx="13" class="tag-ml-bg"/>
+  <rect x="397" y="152" width="148" height="26" rx="13" class="tag-ml-border"/>
+  <text x="471" y="169" text-anchor="middle" class="tag-ml-text">🤖 ML Engineer</text>
+
+  <!-- Tagline -->
+  <text x="430" y="210" text-anchor="middle" class="sub">Building end-to-end systems — from pixel-perfect UIs</text>
+  <text x="430" y="230" text-anchor="middle" class="sub">to production ML pipelines. CS student on a mission to ship things that matter.</text>
+</svg>

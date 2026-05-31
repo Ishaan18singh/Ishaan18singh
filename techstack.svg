@@ -1,0 +1,85 @@
+<svg width="860" height="260" viewBox="0 0 860 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; }
+      .border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .sec-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #6e7681; letter-spacing: 0.08em; }
+      .cluster-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; fill: #6e7681; }
+      .badge-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 500; }
+      .fe-bg { fill: #2d1a15; } .fe-border { fill:none; stroke:#F0997B; stroke-width:0.8; } .fe-text { fill: #f0997b; }
+      .be-bg { fill: #0e1f35; } .be-border { fill:none; stroke:#85B7EB; stroke-width:0.8; } .be-text { fill: #85b7eb; }
+      .ml-bg { fill: #1a1630; } .ml-border { fill:none; stroke:#AFA9EC; stroke-width:0.8; } .ml-text { fill: #afa9ec; }
+      .tool-bg { fill: #1e1e1b; } .tool-border { fill:none; stroke:#B4B2A9; stroke-width:0.8; } .tool-text { fill: #b4b2a9; }
+    </style>
+  </defs>
+  <rect width="860" height="260" class="bg"/>
+
+  <!-- Section label -->
+  <text x="0" y="18" class="sec-label">TECH STACK</text>
+  <line x1="88" y1="13" x2="860" y2="13" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Card -->
+  <rect x="0" y="26" width="860" height="224" rx="10" class="card"/>
+  <rect x="0" y="26" width="860" height="224" rx="10" class="border"/>
+
+  <!-- Frontend row -->
+  <text x="20" y="54" class="cluster-label">Frontend</text>
+  <!-- HTML5 -->
+  <rect x="20" y="62" width="68" height="22" rx="11" class="fe-bg"/><rect x="20" y="62" width="68" height="22" rx="11" class="fe-border"/>
+  <circle cx="33" cy="73" r="4" fill="#E34F26"/><text x="42" y="77" class="badge-text fe-text">HTML5</text>
+  <!-- CSS3 -->
+  <rect x="96" y="62" width="62" height="22" rx="11" class="fe-bg"/><rect x="96" y="62" width="62" height="22" rx="11" class="fe-border"/>
+  <circle cx="109" cy="73" r="4" fill="#1572B6"/><text x="118" y="77" class="badge-text fe-text">CSS3</text>
+  <!-- JS -->
+  <rect x="166" y="62" width="100" height="22" rx="11" class="fe-bg"/><rect x="166" y="62" width="100" height="22" rx="11" class="fe-border"/>
+  <circle cx="179" cy="73" r="4" fill="#F7DF1E"/><text x="188" y="77" class="badge-text fe-text">JavaScript</text>
+  <!-- React -->
+  <rect x="274" y="62" width="68" height="22" rx="11" class="fe-bg"/><rect x="274" y="62" width="68" height="22" rx="11" class="fe-border"/>
+  <circle cx="287" cy="73" r="4" fill="#61DAFB"/><text x="296" y="77" class="badge-text fe-text">React</text>
+
+  <!-- Backend row -->
+  <text x="20" y="110" class="cluster-label">Backend &amp; APIs</text>
+  <!-- Python -->
+  <rect x="20" y="118" width="74" height="22" rx="11" class="be-bg"/><rect x="20" y="118" width="74" height="22" rx="11" class="be-border"/>
+  <circle cx="33" cy="129" r="4" fill="#3776AB"/><text x="42" y="133" class="badge-text be-text">Python</text>
+  <!-- Node.js -->
+  <rect x="102" y="118" width="74" height="22" rx="11" class="be-bg"/><rect x="102" y="118" width="74" height="22" rx="11" class="be-border"/>
+  <circle cx="115" cy="129" r="4" fill="#68A063"/><text x="124" y="133" class="badge-text be-text">Node.js</text>
+  <!-- REST APIs -->
+  <rect x="184" y="118" width="86" height="22" rx="11" class="be-bg"/><rect x="184" y="118" width="86" height="22" rx="11" class="be-border"/>
+  <circle cx="197" cy="129" r="4" fill="#009688"/><text x="206" y="133" class="badge-text be-text">REST APIs</text>
+  <!-- SAP -->
+  <rect x="278" y="118" width="54" height="22" rx="11" class="be-bg"/><rect x="278" y="118" width="54" height="22" rx="11" class="be-border"/>
+  <circle cx="291" cy="129" r="4" fill="#0FAAFF"/><text x="300" y="133" class="badge-text be-text">SAP</text>
+
+  <!-- ML row -->
+  <text x="20" y="166" class="cluster-label">ML / Data</text>
+  <!-- Scikit-learn -->
+  <rect x="20" y="174" width="100" height="22" rx="11" class="ml-bg"/><rect x="20" y="174" width="100" height="22" rx="11" class="ml-border"/>
+  <circle cx="33" cy="185" r="4" fill="#F7931E"/><text x="42" y="189" class="badge-text ml-text">Scikit-learn</text>
+  <!-- PyTorch -->
+  <rect x="128" y="174" width="80" height="22" rx="11" class="ml-bg"/><rect x="128" y="174" width="80" height="22" rx="11" class="ml-border"/>
+  <circle cx="141" cy="185" r="4" fill="#EE4C2C"/><text x="150" y="189" class="badge-text ml-text">PyTorch</text>
+  <!-- Pandas -->
+  <rect x="216" y="174" width="72" height="22" rx="11" class="ml-bg"/><rect x="216" y="174" width="72" height="22" rx="11" class="ml-border"/>
+  <circle cx="229" cy="185" r="4" fill="#3776AB"/><text x="238" y="189" class="badge-text ml-text">Pandas</text>
+  <!-- NumPy -->
+  <rect x="296" y="174" width="70" height="22" rx="11" class="ml-bg"/><rect x="296" y="174" width="70" height="22" rx="11" class="ml-border"/>
+  <circle cx="309" cy="185" r="4" fill="#4DABF7"/><text x="318" y="189" class="badge-text ml-text">NumPy</text>
+
+  <!-- Tools row -->
+  <text x="20" y="220" class="cluster-label">Tools &amp; DevOps</text>
+  <!-- Git -->
+  <rect x="20" y="228" width="52" height="22" rx="11" class="tool-bg"/><rect x="20" y="228" width="52" height="22" rx="11" class="tool-border"/>
+  <circle cx="33" cy="239" r="4" fill="#F05032"/><text x="42" y="243" class="badge-text tool-text">Git</text>
+  <!-- VS Code -->
+  <rect x="80" y="228" width="80" height="22" rx="11" class="tool-bg"/><rect x="80" y="228" width="80" height="22" rx="11" class="tool-border"/>
+  <circle cx="93" cy="239" r="4" fill="#007ACC"/><text x="102" y="243" class="badge-text tool-text">VS Code</text>
+  <!-- Docker -->
+  <rect x="168" y="228" width="72" height="22" rx="11" class="tool-bg"/><rect x="168" y="228" width="72" height="22" rx="11" class="tool-border"/>
+  <circle cx="181" cy="239" r="4" fill="#2496ED"/><text x="190" y="243" class="badge-text tool-text">Docker</text>
+  <!-- Jupyter -->
+  <rect x="248" y="228" width="74" height="22" rx="11" class="tool-bg"/><rect x="248" y="228" width="74" height="22" rx="11" class="tool-border"/>
+  <circle cx="261" cy="239" r="4" fill="#FF6F00"/><text x="270" y="243" class="badge-text tool-text">Jupyter</text>
+</svg>

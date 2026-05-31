@@ -1,0 +1,32 @@
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; }
+      .border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #6e7681; letter-spacing: 0.08em; }
+      .card-title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #c9d1d9; }
+      .card-body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #8b949e; }
+    </style>
+  </defs>
+  <rect width="860" height="160" class="bg"/>
+
+  <!-- Section label -->
+  <text x="0" y="18" class="label">ABOUT</text>
+  <line x1="60" y1="13" x2="860" y2="13" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Left card -->
+  <rect x="0" y="28" width="418" height="120" rx="10" class="card"/>
+  <rect x="0" y="28" width="418" height="120" rx="10" class="border"/>
+  <text x="20" y="55" class="card-title">⌨️  What I build</text>
+  <text x="20" y="78" class="card-body">Full-stack web apps with React frontends and</text>
+  <text x="20" y="96" class="card-body">Python/Node backends. End-to-end ML models</text>
+  <text x="20" y="114" class="card-body">from data wrangling to deployment.</text>
+
+  <!-- Right card -->
+  <rect x="430" y="28" width="430" height="120" rx="10" class="card"/>
+  <rect x="430" y="28" width="430" height="120" rx="10" class="border"/>
+  <text x="450" y="55" class="card-title">🔭  What I'm exploring</text>
+  <text x="450" y="78" class="card-body">Deep learning architectures, REST &amp; GraphQL APIs,</text>
+  <text x="450" y="96" class="card-body">SAP MM integrations, and MLOps best practices.</text>
+</svg>
