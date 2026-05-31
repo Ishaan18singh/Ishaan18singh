@@ -15,28 +15,9 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 B.Tech CSE (Data Science) @ Gautam Buddha University
-
-🤖 Passionate about Artificial Intelligence, Machine Learning & NLP
-
-🌱 Currently Learning:
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- MLOps
-- Cloud AI Deployment
-
-🔭 Current Projects:
-- AI Medicine Normalizer
-- Investment Comparison Tool
-- Intelligent Search Systems
-
-💡 Goal:
-- Build Production-Ready AI SaaS Products
-- Become an AI/ML Engineer
-
----
+<p align="center">
+  <img src="assets/about.svg" width="100%" />
+</p>
 
 ## 🌐 Connect With Me
 
