@@ -17,9 +17,6 @@
 <p align="center">
   <img src="connect.svg" width="100%" />
 </p>
-<p align="center">
-  <img src="connect.svg" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ishaan-singh-46632729a">
