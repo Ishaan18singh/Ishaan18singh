@@ -1,9 +1,9 @@
 name: Generate Pacman Contribution Graph
 
 on:
+workflow_dispatch:
 schedule:
 - cron: "0 */12 * * *"
-workflow_dispatch:
 
 permissions:
 contents: write
@@ -14,15 +14,20 @@ runs-on: ubuntu-latest
 
 ```
 steps:
+  - name: Checkout
+    uses: actions/checkout@v4
+
   - name: Generate Pacman Graph
-    uses: abozanona/pacman-contribution-graph@main
+    uses: Platane/snk@v3
     with:
       github_user_name: Ishaan18singh
+      outputs: |
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Push Pacman Graph
+  - name: Deploy to Output Branch
     uses: peaceiris/actions-gh-pages@v4
     with:
       github_token: ${{ secrets.GITHUB_TOKEN }}
       publish_branch: output
-      publish_dir: ./
+      publish_dir: dist
 ```
