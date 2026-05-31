@@ -51,10 +51,10 @@
 </div>
 
 ---
-## 🟡 Pacman Contribution Graph
+## 🟡 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ishaan18singh/Ishaan18singh/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Ishaan18singh/Ishaan18singh/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 # 👀 Visitor Count
