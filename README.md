@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./rabbit_typing.gif" width="250" alt="Rabbit Typing"/>
+<img src="./ninja_rabbit.gif" width="250" alt="Rabbit Typing"/>
 
 <br><br>
 
