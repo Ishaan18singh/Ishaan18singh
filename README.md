@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="stats.svg" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan18singh&theme=dark&hide_border=true&border_radius=10" />
 </p>
 
