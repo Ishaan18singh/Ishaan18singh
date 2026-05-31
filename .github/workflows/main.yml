@@ -1,27 +1,25 @@
 name: Generate Pacman Contribution Graph
 
 on:
-workflow_dispatch:
-schedule:
-- cron: "0 */24 * * *"
+  workflow_dispatch:
+  schedule:
+   - cron: "0 0 * * *"
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
-steps:
-  - name: Generate Pacman
-    uses: abozanona/pacman-contribution-graph@main
-    with:
-      github_user_name: Ishaan18singh
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Ishaan18singh
 
-  - name: Deploy to output branch
-    uses: peaceiris/actions-gh-pages@v4
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      publish_dir: dist
-      publish_branch: output
-
-      
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
