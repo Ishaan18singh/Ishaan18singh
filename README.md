@@ -59,7 +59,6 @@
   <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 # 👀 Visitor Count
 
 <p align="center">
