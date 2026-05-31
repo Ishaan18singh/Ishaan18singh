@@ -1,31 +1,15 @@
 name: Generate Pacman Contribution Graph
 
 on:
-workflow_dispatch:
-schedule:
-- cron: "0 */24 * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
-timeout-minutes: 20
+  generate:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Generate contribution graph SVGs
-    uses: abozanona/pacman-contribution-graph@main
-    with:
-      github_user_name: Ishaan18singh
-      games: "pacman,bomberman"
-
-  - name: Push SVGs to output branch
-    uses: crazy-max/ghaction-github-pages@v3.1.0
-    with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+    steps:
+      - name: Test
+        run: echo "Workflow works"
