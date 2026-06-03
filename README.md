@@ -33,11 +33,10 @@
 
 
 # 🔥 GitHub Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ishaan18singh&theme=github-dark-blue&hide_border=true&cache_seconds=3600" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan18singh&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-</p>
----
 ## 🟡 Pacman Contribution Graph
 
 ![Pacman](https://raw.githubusercontent.com/Ishaan18singh/Ishaan18singh/output/pacman-contribution-graph.svg)
