@@ -34,7 +34,7 @@
 
 # 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ishaan18singh&theme=github-dark-blue&hide_border=true&cache_seconds=3600" />
+  <img src="https://streak-stats.demolab.com/?user=Ishaan18singh&theme=github-dark-blue&hide_border=true&timestamp=1748736000" />
 </div>
 
 ## 🟡 Pacman Contribution Graph
