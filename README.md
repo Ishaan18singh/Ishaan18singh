@@ -28,7 +28,7 @@
 ---
 
 # 📊 GitHub Statistics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan18singh&theme=github_dark"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan18singh&theme=github_dark"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan18singh&theme=github_dark"/>
 
 
 
